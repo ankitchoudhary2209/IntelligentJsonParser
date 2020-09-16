@@ -1,6 +1,6 @@
 # IntelligentJsonParser
 
-Run the jar like in below examples:
+Run the jar(attached in the above repo) like in below examples:
 
 1.
 java -cp sim-sim-1.0.0-SNAPSHOT-jar-with-dependencies.jar com.simsim.SimSimServer '{"name": "John", "age": 30, "married": true, "retired": null, "children": ["Ann", "Billy"], "dogs": null, "cats": 0, "cars": [{"model": "BMW 230", "mpg": 27.5, "vin": "", "manual": false }, {"model": "Ford Edge", "mpg": 24.1, "features": [] }, [null, ""], false, null ] }'
